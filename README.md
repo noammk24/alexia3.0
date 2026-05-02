@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/noammk24/alexia3.0/blob/c3ae84dcdbabb7fb36a29b988130947617e3f756/WhatsApp%20Image%202026-05-03%20at%201.37.09%20AM.jpeg)"  />
+  <img src="[https://i.imgflip.com/65efzo.gif](https://github.com/noammk24/alexia3.0/blob/c3ae84dcdbabb7fb36a29b988130947617e3f756/WhatsApp%20Image%202026-05-03%20at%201.37.09%20AM.jpeg)"  />
 </div>
 
 ###
