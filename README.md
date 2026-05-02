@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/noammk24/alexia3.0/blob/7cfd29da2442ad52188bdb90a1039ff66fb16c87/Score%20Screen.jpeg)"  />
+ ![image alt] (https://i.imgflip.com/65efzo.gif](https://github.com/noammk24/alexia3.0/blob/7cfd29da2442ad52188bdb90a1039ff66fb16c87/Score%20Screen.jpeg)
 </div>
 
 ###
