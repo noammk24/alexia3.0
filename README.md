@@ -6,15 +6,51 @@
 
 ###
 
-<p align="left">3. DESIGN CONSIDERATION <br>The application was designed to be simple and user-friendly. For comfortable reading, the interface is simple, and simple screen switching makes navigating simple. To provide a clear user experience</p>
+<p align="left">4. SCREENSHOT</p>
 
 ###
 
-<p align="left">4. TECHNOLOGY USED <br>-android studio <br>-Kotlin</p>
+<p align="left">Welcome Screen</p>
 
 ###
 
-<p align="left">5. GITHUB AND GITHUB ACTIONS<br><br>-GitHub was used for version control and storing the project.<br>-GitHub Actions was used to automate builds and check for errors.</p>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<p align="left">Quiz Screen</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<p align="left">Feedback and Next Button</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<p align="left">Score Screen</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<p align="left">Review Screen</p>
 
 ###
 
@@ -22,6 +58,24 @@
 
 ###
 
-<p align="left">6.  CONCLUSION<br>The application effectively gives users a simple and fun method to discover and evaluate their understanding of life hacks and myths.</p>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<p align="left">5. DESIGN CONSIDERATION <br>The application was designed to be simple and user-friendly. For comfortable reading, the interface is simple, and simple screen switching makes navigating simple. To provide a clear user experience</p>
+
+###
+
+<p align="left">6. TECHNOLOGY USED <br>-android studio <br>-Kotlin</p>
+
+###
+
+<p align="left">7. GITHUB AND GITHUB ACTIONS<br><br>-GitHub was used for version control and storing the project.<br>-GitHub Actions was used to automate builds and check for errors.</p>
+
+###
+
+<p align="left">8.  CONCLUSION<br>The application effectively gives users a simple and fun method to discover and evaluate their understanding of life hacks and myths.</p>
 
 ###
