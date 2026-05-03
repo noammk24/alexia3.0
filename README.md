@@ -6,63 +6,32 @@
 
 ###
 
-<p align="left">4. SCREENSHOT</p>
+<p align="left">4. SCREENSHOTS</p>
 
-###
-
-<p align="left">Welcome Screen</p>
-
-###
-
+<p>Welcome Screen</p>
 <div align="center">
-  <img src="[https://i.imgflip.com/65efzo.gif](https://github.com/noammk24/alexia3.0/blob/c3ae84dcdbabb7fb36a29b988130947617e3f756/WhatsApp%20Image%202026-05-03%20at%201.37.09%20AM.jpeg)"  />
+  <img src="https://github.com/noammk24/alexia3.0/blob/main/WhatsApp%20Image%202026-05-03%20at%201.37.09%20AM.jpeg?raw=true" width="250"/>
 </div>
 
-###
-
-<p align="left">Quiz Screen</p>
-
-###
-
+<p>Quiz Screen</p>
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://github.com/noammk24/alexia3.0/blob/main/Quiz%20Screen.jpeg?raw=true" width="250"/>
 </div>
 
-###
-
-<p align="left">Feedback and Next Button</p>
-
-###
-
+<p>Feedback and Next Button</p>
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://github.com/noammk24/alexia3.0/blob/main/Feedback.jpeg?raw=true" width="250"/>
 </div>
 
-###
-
-<p align="left">Score Screen</p>
-
-###
-
+<p>Score Screen</p>
 <div align="center">
- ![image alt] (https://i.imgflip.com/65efzo.gif](https://github.com/noammk24/alexia3.0/blob/7cfd29da2442ad52188bdb90a1039ff66fb16c87/Score%20Screen.jpeg)
+  <img src="https://github.com/noammk24/alexia3.0/blob/main/Score%20Screen.jpeg?raw=true" width="250"/>
 </div>
 
-###
-
-<p align="left">Review Screen</p>
-
-###
-
-<p align="left"></p>
-
-###
-
+<p>Review Screen</p>
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://github.com/noammk24/alexia3.0/blob/main/Review%20Screen.jpeg?raw=true)"  />
+  <img src="https://github.com/noammk24/alexia3.0/blob/main/Review%20Screen.jpeg?raw=true" width="250"/>
 </div>
-
-###
 
 <p align="left">5. DESIGN CONSIDERATION <br>The application was designed to be simple and user-friendly. For comfortable reading, the interface is simple, and simple screen switching makes navigating simple. To provide a clear user experience</p>
 
