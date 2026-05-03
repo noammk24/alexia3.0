@@ -10,7 +10,7 @@
 
 <p>Welcome Screen</p>
 <div align="center">
-  <img src="https://github.com/noammk24/alexia3.0/blob/main/WhatsApp%20Image%202026-05-03%20at%201.37.09%20AM.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/noammk24/alexia3.0/blob/a4959c3d12edb8faa153e9501dce91b5908258d4/Welcome%20Screen.jpeg?raw=true" width="250"/>
 </div>
 
 <p>Quiz Screen</p>
