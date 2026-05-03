@@ -32,7 +32,7 @@
   <img src="https://github.com/noammk24/alexia3.0/blob/main/Review%20Screen.jpeg?raw=true" width="250"/>
 </div>
 
-<p align="left">5. DESIGN CONSIDERATION <br>The application was designed to be simple and user-friendly. For comfortable reading, the interface is simple, and simple screen switching makes navigating simple. To provide a clear user experience</p>
+<p align="left">5. DESIGN CONSIDERATION <br>The application was designed to be simple and user-friendly. For comfortable reading, the interface is clear and simple screen switching makes navigation easy providing a better user experience</p>
 
 ###
 
