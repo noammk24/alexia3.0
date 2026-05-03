@@ -20,9 +20,8 @@
 
 <p>Feedback and Next Button</p>
 <div align="center">
-  <img src="https://github.com/noammk24/alexia3.0/blob/main/Feedback.jpeg?raw=true" width="250"/>
+  <img src="https://github.com/noammk24/alexia3.0/blob/85ef5a3d012e1a8b8a5cfba2d7b9fa2886f36c3a/Feedback%20and%20Next%20Button.jpeg?raw=true" width="250"/>
 </div>
-
 <p>Score Screen</p>
 <div align="center">
   <img src="https://github.com/noammk24/alexia3.0/blob/main/Score%20Screen.jpeg?raw=true" width="250"/>
